@@ -1,8 +1,9 @@
 {
-  "name": "ng-websocket",
-  "version": "0.2.1",
+  "name": "ng-websocket-hem3r",
+  "version": "0.2.2",
   "authors": [
-    "Vincenzo (Wilk) Ferrari <wilk3ert@gmail.com>"
+    "Vincenzo (Wilk) Ferrari <wilk3ert@gmail.com>",
+    "Vaclav Chalupa <vac.chalupa@gmail.com>"
   ],
   "description": "AngularJS HTML5 WebSocket powerful library",
   "main": "ng-websocket.js",
